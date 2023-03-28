@@ -6,8 +6,7 @@
 * [1. Intro](https://github.com/evelynbenavidez/clonacion_google/blob/main/README.md#1-intro)
 * [2. Qué construí](https://github.com/evelynbenavidez/clonacion_google/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * [3. Objectivo del proyecto](https://github.com/evelynbenavidez/clonacion_google/blob/main/README.md#3-objectivo-del-proyecto)
-* [4. Link a Demo](https://startling-daifuku-a9a38c.netlify.app/)
-
+* [4. Link a Demo](https://github.com/evelynbenavidez/clonacion_google/blob/main/README.md#4-link-a-demo)
 **
 
 ## 1. Intro
@@ -27,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://startling-daifuku-a9a38c.netlify.app/)
